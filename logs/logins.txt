@@ -1,6 +1,0 @@
-[2025-05-10 15:33:10] Usuario 'NelsonPineda' inició sesión.
-[2025-05-10 15:33:34] Usuario 'admin' inició sesión.
-[2025-05-10 15:34:50] Usuario 'NelsonPineda' inició sesión.
-[2025-05-10 15:35:49] Usuario 'NelsonPineda' inició sesión.
-[2025-05-10 15:36:30] Usuario 'NelsonPineda' inició sesión.
-[2025-05-10 15:37:02] Usuario 'NelsonPineda' inició sesión.
